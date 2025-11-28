@@ -1,6 +1,6 @@
 ### Hi, I'm Nadya! 👋
 
-I'm a software engineer and game dev hobbyist from Indonesia.
+I'm a software engineer and game dev hobbyist based in Ontario, Canada.
 
 - 🐱 Adopt your very own browser companion from [Kindred](https://www.kindredlabs.ai/adopt).
 - 💻 Currently working on updating my [personal website](http://nadyafebi.dev/).
